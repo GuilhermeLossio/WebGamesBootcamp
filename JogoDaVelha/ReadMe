@@ -1,0 +1,19 @@
+Jogo da velha - Órbi Web Games Developer : bootcamp
+Feito por: Guilherme Ferreira Medeiros Lossio
+Este projeto de jogo da velha sofreu algumas adaptações em seu desenvolvimento que deixaram o código mais limpo, além de eu ter feito escolhas que influenciaram diretamente na limpeza visual do jogo.
+Levando isso em consideração seguem as escolhas:
+1- Fiz com que os textos nos botões não fossem selecionáveis para que o jogador não os selecionasse sem querer.
+2- Escolhi que para quando o jogo terminasse nenhum dos jogadores poderiam adicionar mais botões.
+3- Arredondei as bordas dos botões para ficar com um visual mais amigável.
+4- No final da partida o jogador recebe um alerta pra ver quem ganhou.
+Tempo gasto no desenvolvimento: 1:30
+Contato = guilhermelossio@hotmail.com
+Hash  - Orbi Web Games Developer : bootcamp
+Made by: Guilherme Ferreira Medeiros Lossio
+This tic-tac-toe project underwent some adaptations in its development that left the code cleaner, and I made choices that directly influenced the visual cleanliness of the game.
+With that in mind, here are the choices:
+1- I made the texts on the buttons not selectable so that the player would not accidentally select them.
+2- I chose that when the game ended none of the players could add more buttons.
+3- I rounded the edges of the buttons for a more user-friendly look.
+4- At the end of the game the player receives an alert to see who won.
+Time spent on development: 1:30
